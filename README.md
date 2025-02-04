@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, stranger
+
+Thank you for visiting.
+
+I'm Maxim, currently work as a Head of Sales.
+
+My child dream is coding. When I was at high school I started looking for opportunities to learn coding, but, unfortunately, I couldn't figure out with it. 
+Now I decided to fix it, because I have to make my dreams come true.
 
 <!--
 **mdrozhzhin/mdrozhzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
